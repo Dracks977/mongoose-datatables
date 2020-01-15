@@ -17,7 +17,7 @@ Configure the plugin in your model
 
 ```javascript
 var mongoose = require('mongoose')
-var dataTables = require('mongoose-datatables')
+var dataTables = require('mongoose-datatables-fix')
 var Schema = mongoose.Schema
 
 var UserSchema = new Schema({
