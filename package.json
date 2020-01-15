@@ -1,6 +1,6 @@
 {
   "name": "mongoose-datatables-fix",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "description": "Server side dataTable request",
   "main": "index.js",
   "engines": {
@@ -20,9 +20,9 @@
   "author": "Antonio Sandoval",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/archr/mongoose-datatables/issues"
+    "url": "https://github.com/Dracks977/mongoose-datatables/issues"
   },
-  "homepage": "https://github.com/archr/mongoose-datatables",
+  "homepage": "https://github.com/Dracks977/mongoose-datatables/mongoose-datatables",
   "peerDependencies": {
     "mongoose": ">=3.8"
   },
