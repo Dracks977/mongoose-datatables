@@ -94,6 +94,7 @@ UserSchema.plugin(dataTables, {
 });
 ```
 
+
 Use by doing this at query level
 ```javascript
 User.dataTables({
@@ -102,6 +103,11 @@ User.dataTables({
 })
 ```
 **Note:** if you use formatters you get an array of objects on data, instead of the model instance.
+
+
+# todo
+
+Add custom find parameters (exclude some value etc)
 
 
 ## License
