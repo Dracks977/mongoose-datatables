@@ -1,3 +1,6 @@
+# Fix
+Add columns and multicolumns  filter
+
 # mongoose-datatables
 
 Server side table request.
@@ -6,7 +9,7 @@ Server side table request.
 
 ## Installation
 ```sh
-$ npm install mongoose-datatables
+$ npm install mongoose-datatables-fix
 ```
 
 ## Usage
